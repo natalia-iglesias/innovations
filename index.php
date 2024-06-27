@@ -143,7 +143,7 @@
 
         </div>
     </section>
-    <!-- <section id="tecnologias">
+    <section id="tecnologias">
         <div class="container pt-5 pb-5 h-100">
             <h3>TECNOLOGÍAS QUE USAMOS</h3>
             <div class="row mt-5">
@@ -185,7 +185,7 @@
             </div>
 
         </div>
-    </section> -->
+    </section>
     <section id="nosotros">
         <div class="container col-12 col-sm-12 col-md-6 pt-5 pb-5 h-100">
         
